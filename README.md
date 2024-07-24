@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 |     |     |     |
 | :-: | :-: | :-- |
-| [Numpy-CNN](https://github.com/Alescontrela/Numpy-CNN) | ![](https://img.shields.io/github/stars/Alescontrela/Numpy-CNN?label=%E2%98%85) | [Convolutional neural networks from the ground up](https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1) |
+| [Numpy-CNN](https://github.com/Alescontrela/Numpy-CNN) | ![](https://img.shields.io/github/stars/Alescontrela/Numpy-CNN?label=%E2%98%85) | [Convolutional neural networks from the ground up](https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1) ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) |
 | [Differential Dynamic Programming](https://github.com/Alescontrela/DDP_Examples) | ![](https://img.shields.io/github/stars/Alescontrela/DDP_Examples?label=%E2%98%85) | Differential dynamic programming examples |
 
 ### 🛠️&nbsp; Tools
