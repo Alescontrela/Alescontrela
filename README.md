@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 | [Numpy-CNN](https://github.com/Alescontrela/Numpy-CNN) | ![](https://img.shields.io/github/stars/Alescontrela/Numpy-CNN?label=%E2%98%85) | Convolutional neural networks from the ground up |
 | [Differential Dynamic Programming](https://github.com/Alescontrela/DDP_Examples) | ![](https://img.shields.io/github/stars/Alescontrela/DDP_Examples?label=%E2%98%85) | Differential dynamic programming examples |
 
-### 🛠️&nbsp; Tutorials
+### 🛠️&nbsp; Tools
 
 |     |     |     |
 | :-: | :-: | :-- |
-| [coinmarketcap-history](https://github.com/Waultics/coinmarketcap-history) | ![](https://img.shields.io/github/stars/Waultics/coinmarketcap-history?label=%E2%98%85) | Coinmarketcap extraction tools |
+| [coinmarketcap-history*](https://github.com/Waultics/coinmarketcap-history) | ![](https://img.shields.io/github/stars/Waultics/coinmarketcap-history?label=%E2%98%85) | Coinmarketcap extraction tools |
 | [Dotfiles](https://github.com/Alescontrela/dotfiles) | ![](https://img.shields.io/github/stars/Alescontrela/dotfiles?label=%E2%98%85) | dotfiles and installer for Mac |
 
 &nbsp;* Archived
