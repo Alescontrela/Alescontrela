@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 
 |     |     |     |
 | :-: | :-: | :-- |
-| [coinmarketcap-history*](https://github.com/Waultics/coinmarketcap-history) | ![](https://img.shields.io/github/stars/Waultics/coinmarketcap-history?label=%E2%98%85) | Coinmarketcap extraction tools |
+| [coinmarketcap-history](https://github.com/Waultics/coinmarketcap-history)* | ![](https://img.shields.io/github/stars/Waultics/coinmarketcap-history?label=%E2%98%85) | Coinmarketcap extraction tools |
 | [Dotfiles](https://github.com/Alescontrela/dotfiles) | ![](https://img.shields.io/github/stars/Alescontrela/dotfiles?label=%E2%98%85) | dotfiles and installer for Mac |
+| [alescontrela.github.io](https://github.com/Alescontrela/Alescontrela.github.io) | ![](https://img.shields.io/github/stars/Alescontrela/Alescontrela.github.io?label=%E2%98%85) | Custom website template (aifolio fork) |
 
 &nbsp;* Archived
